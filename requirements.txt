@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pydantic==1.10.7
+aiokafka==0.8.0
+aioredis==2.0.1
+pytest==7.4.0
+pytest-asyncio==0.21.0
+httpx==0.24.1
+coverage==6.5.0
