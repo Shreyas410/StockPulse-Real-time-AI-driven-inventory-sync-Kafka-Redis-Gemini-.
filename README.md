@@ -27,3 +27,4 @@ Testing:
 pytest -q
 ```
 
+# StockPulse-Real-time-AI-driven-inventory-sync-Kafka-Redis-Gemini-.  
